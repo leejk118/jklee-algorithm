@@ -1,7 +1,7 @@
-import programmers.programmers_42840;
+import programmers.programmers_level2_42842;
 
 public class Algorithm {
     public static void main(String[] args) {
-        (new programmers_42840()).printAnswer();
+        (new programmers_level2_42842()).printAnswer();
     }
 }
